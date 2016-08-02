@@ -85,8 +85,12 @@ Ok, now onto the good stuff! Below is a list of tutorials and modules we'd like 
 
 Last - but not least, check out some of these awesome additional resources! While none of these are really required, we highly recommend that you spend extra time preparing for the course. Remember, this is your learning experience, so make the most of it!
 
-* Lots of videos form Google [Android Youtube channel](https://www.youtube.com/user/androiddevelopers)
-* If you want to be an Android developer, you'll need to [get comfortable with basics of Android Documentation](https://developer.android.com/guide/index.html)
-* Lots of great guides [Vogella Introduction to Android](http://www.vogella.com/tutorials/android.html)
-* Very thorough guides on all things Android [Codepath Android Guides](https://guides.codepath.com/android)
-
+#### Useful things to Bookmark!
+* [Android Youtube channel](https://www.youtube.com/user/androiddevelopers)
+* [Android Documentation](https://developer.android.com/guide/index.html)
+* [Vogella Introduction to Android](http://www.vogella.com/tutorials/android.html)
+* [Codepath Android Guides](https://guides.codepath.com/android)
+* [Popular libraries used in Android Projects](https://guides.codepath.com/android/Must-Have-Libraries)
+* [Material Design Color Palette Generator](http://www.materialpalette.com/)
+* [Wireframing tool for quick UI prototypes](https://wireframe.cc/)
+* [Android Libraries for use](https://android-arsenal.com/)
