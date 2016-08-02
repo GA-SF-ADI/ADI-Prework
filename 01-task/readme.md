@@ -6,6 +6,8 @@ We're really excited to have join our General Assembly community! In order to en
 
 Please complete **all** items **before** your first day of class, so that both you and your computer will be prepared to hit the ground running. If you have questions in the meantime (or just want to say hi!), feel free to reach out to your instructional team!
 
+Once you've finished everything on this list, you will be taking a [Quiz]() to make sure you've learned the material. There is also a small [Java project]() for you to complete. Failure to submit either of these by first day of class will result in you being dismissed from the course.
+
 Sincerely,
 
 GA + your Android Immersive Team
@@ -58,11 +60,12 @@ Ok, now onto the good stuff! Below is a list of tutorials and modules we'd like 
 
 -  [ ] Practice the Fundamentals
 	* **Required**: [Learn Java basics at CodeAcademy](https://www.codecademy.com/learn/learn-java). You need to complete **all 4 units** starting with Introduction, Control Flow, Object Orientation and finally Data Structures.
-	* **Required**: [Stanford's famous CS101 course, look at concepts in weeks 1, 2, 4, and 6! Feel free to explore the rest should you have free time.](http://web.stanford.edu/class/cs101/)
+	* **Requiredd**: [Intro to Java Course](https://courses.edx.org/courses/course-v1:HKUSTx+COMP102.1x+2T2016/info) EDX has a great Intro to Java course that teaches you basics of computing and Java. There are video tutorial and exercises. Please go through the whole course, videos are 10 minutes or less. Signing up for the course is free, make sure to press the `Audit Course` button. There is no need to pay for a certificate. 
+	* **Optional**: [Stanford's famous CS101 course, look at concepts in weeks 1, 2, 4, and 6! Feel free to explore the rest should you have free time.](http://web.stanford.edu/class/cs101/)
 
 -  [ ] Experiment with Android Studio
-	* **Required**: [Meet Android Studio](https://developer.android.com/studio/intro/index.html)
-	* **Required**: [Familiarize yourself with Android Studio Shortcuts](https://developer.android.com/studio/intro/keyboard-shortcuts.html)
+	* **Required**: [Familiarize yourself with Android StudioShortcuts](https://developer.android.com/studio/intro/keyboard-shortcuts.html)
+	* **Optional**: [Meet Android Studio](https://developer.android.com/studio/intro/index.html)
 	* **Optional**: [Read about SDK updates in Android Studio](https://developer.android.com/studio/intro/update.html)
 
 - [ ] Mobile Networks 101
@@ -90,7 +93,7 @@ Last - but not least, check out some of these awesome additional resources! Whil
 * [Android Documentation](https://developer.android.com/guide/index.html)
 * [Vogella Introduction to Android](http://www.vogella.com/tutorials/android.html)
 * [Codepath Android Guides](https://guides.codepath.com/android)
-* [Popular libraries used in Android Projects](https://guides.codepath.com/android/Must-Have-Libraries)
+* [Popular libraries used in modern Android Projects](https://guides.codepath.com/android/Must-Have-Libraries)
 * [Material Design Color Palette Generator](http://www.materialpalette.com/)
 * [Wireframing tool for quick UI prototypes](https://wireframe.cc/)
-* [Android Libraries for use](https://android-arsenal.com/)
+* [Tool to find Android Libraries](https://android-arsenal.com/)
