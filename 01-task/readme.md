@@ -6,7 +6,11 @@ We're really excited to have join our General Assembly community! In order to en
 
 Please complete **all** items **before** your first day of class, so that both you and your computer will be prepared to hit the ground running. If you have questions in the meantime (or just want to say hi!), feel free to reach out to your instructional team!
 
-Once you've finished everything on this list, you will be taking a [Quiz]() to make sure you've learned the material. There is also a small [Java project]() for you to complete. Failure to submit either of these by first day of class will result in you being dismissed from the course.
+Once you've finished everything on this list, you will be submitting:
+- [Quiz]() to make sure you've learned the material. 
+- [Java project]() for you to complete. 
+
+Failure to submit either of these by first day of class will result in you being dismissed from the course.
 
 Sincerely,
 
@@ -52,21 +56,21 @@ Ok, now onto the good stuff! Below is a list of tutorials and modules we'd like 
 
 - [ ] Master the Command Line
 	* **Required**: [Complete our basic Command Line Overview.](http://generalassembly.github.io/prework/cl/#/)
-	* **Optional**: [You know what's important? Practice, practice, practice!](https://www.codecademy.com/learn/learn-the-command-line)
+	* *Optional*: [You know what's important? Practice, practice, practice!](https://www.codecademy.com/learn/learn-the-command-line)
 
 - [ ] Control Your Versions
 	* **Required**: [Complete this entire Git Tutorial.](https://www.codecademy.com/learn/learn-git)
-	* **Optional**: [Here is a fun overview of many common Git functions.](https://www.codeschool.com/courses/try-git)
+	* *Optional*: [Here is a fun overview of many common Git functions.](https://www.codeschool.com/courses/try-git)
 
 -  [ ] Practice the Fundamentals
 	* **Required**: [Learn Java basics at CodeAcademy](https://www.codecademy.com/learn/learn-java). You need to complete **all 4 units** starting with Introduction, Control Flow, Object Orientation and finally Data Structures.
-	* **Requiredd**: [Intro to Java Course](https://courses.edx.org/courses/course-v1:HKUSTx+COMP102.1x+2T2016/info) EDX has a great Intro to Java course that teaches you basics of computing and Java. There are video tutorial and exercises. Please go through the whole course, videos are 10 minutes or less. Signing up for the course is free, make sure to press the `Audit Course` button. There is no need to pay for a certificate. 
-	* **Optional**: [Stanford's famous CS101 course, look at concepts in weeks 1, 2, 4, and 6! Feel free to explore the rest should you have free time.](http://web.stanford.edu/class/cs101/)
+	* **Required**: [Intro to Java Course](https://courses.edx.org/courses/course-v1:HKUSTx+COMP102.1x+2T2016/info) EDX has a great Intro to Java course that teaches you basics of computing and Java. There are video tutorial and exercises. Please go through the whole course, videos are 10 minutes or less. Signing up for the course is free, make sure to press the `Audit Course` button. There is no need to pay for a certificate. 
+	* *Optional*: [Stanford's famous CS101 course, look at concepts in weeks 1, 2, 4, and 6! Feel free to explore the rest should you have free time.](http://web.stanford.edu/class/cs101/)
 
 -  [ ] Experiment with Android Studio
 	* **Required**: [Familiarize yourself with Android StudioShortcuts](https://developer.android.com/studio/intro/keyboard-shortcuts.html)
-	* **Optional**: [Meet Android Studio](https://developer.android.com/studio/intro/index.html)
-	* **Optional**: [Read about SDK updates in Android Studio](https://developer.android.com/studio/intro/update.html)
+	* *Optional*: [Meet Android Studio](https://developer.android.com/studio/intro/index.html)
+	* *Optional*: [Read about SDK updates in Android Studio](https://developer.android.com/studio/intro/update.html)
 
 - [ ] Mobile Networks 101
 	* **Required**: [It's important to understand how the internet works. Complete this module as a refresher.](https://www.khanacademy.org/computing/computer-science/internet-intro)
