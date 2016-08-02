@@ -35,18 +35,13 @@ Note: *Students will need to sign up for a paid Developer account ( $25 ) in ord
 <a name="install"></a>
 ## Technology
 
-Next, let's review the technology required and do some light installations. For more information, check out our [technology policy](../02-policy/readme.md).
-
-* [ ] **Required**: Make sure you have a Mac laptop, with an updated OS (currently 10.11 "El Capitan").
-* [ ] **Required**: Install the latest version of [Xcode](https://developer.apple.com/xcode/).
-* [ ] **Required**: [Download Git](https://git-scm.com/downloads) and [use the following walkthrough to help you configure git on your command line](https://help.github.com/articles/set-up-git/).
-* [ ] **Required**: [Download Slack](https://slack.com/downloads)! Slack is the primary messaging platform we'll use in this course. You'll receive an email invite to join our `GA-Students` group.
-* [ ] *Optional*: We highly recommend installing a text editor like [Atom](https://atom.io) or [Sublime Text 3](http://www.sublimetext.com).
-* [ ] *Optional*: If you have a secondary Android device (e.g. Phone or Tablet), bring it to class so you can use it to test your apps!
-
 #### Technology Policy
 
-Read the [policy here](../02-policy/readme.md)
+Read the [Technology Policy](../02-policy/readme.md)
+
+#### Install Necessary Software
+
+Please follow the [Installation Instructions](installation/install-instructions.md)
 
 
 <a name="tutorials"></a>
