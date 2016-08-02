@@ -7,7 +7,7 @@ We're really excited to have join our General Assembly community! In order to en
 Please complete **all** items **before** your first day of class, so that both you and your computer will be prepared to hit the ground running. If you have questions in the meantime (or just want to say hi!), feel free to reach out to your instructional team!
 
 Once you've finished everything on this list, you will be submitting:
-- [Quiz]() to make sure you've learned the material. 
+- [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSflhgfmVB2ZhPBurDvAYfr1rS7HJGxr5NlYSqzQWNh5pJCdzw/viewform) to make sure you've learned the material. 
 - [Java project]() for you to complete. 
 
 Failure to submit either of these by first day of class will result in you being dismissed from the course.
