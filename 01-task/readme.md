@@ -1,10 +1,6 @@
-# Mandatory pre-class-work
-All students must complete this mandatory pre-class-work
-
-
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Welcome to Android Development Immersive!
 
-[Welcome to the Android Development Immersive at General Assembly!](https://github.com/generalassembly-studio/iosi-precourse-onboarding)
+[Welcome to the Android Development Immersive at General Assembly!](https://github.com/GA-SF-ADI/Pre-class-work)
 
 We're really excited to have join our General Assembly community! In order to ensure your success in the course, we’ve created the following pre-course onboarding materials. Depending on your level of prior knowledge, these tutorials, modules, and projects may take you between 40-60 hours to complete.
 
@@ -30,28 +26,27 @@ GA + your Android Immersive Team
 First, you'll need to set up a few accounts, if you haven't already.
 
 * [ ] **Required**: [Create a Github account](https://github.com/join), if you don't already have one.
-* [ ] **Required**: [Create a Trello account](https://trello.com/signup)
+* [ ] **Required**: [Create a Trello account](https://trello.com/signup), if you don't already have one.
+* * [ ] **Required**: [Create a Slack account](https://slack.com/signup), if you don't already have one.
 
 
-Note: *Students will need to sign up for a paid Developer account in order to submit apps to the Google Play Store. We'll discuss this further in-class!*
+Note: *Students will need to sign up for a paid Developer account ( $25 ) in order to submit apps to the Google Play Store. We'll discuss this further in-class!*
 
 <a name="install"></a>
 ## Technology
 
-Next, let's review the technology required and do some light installations. For more information, check out our policy below.
+Next, let's review the technology required and do some light installations. For more information, check out our [technology policy](../02-policy/readme.md).
 
 * [ ] **Required**: Make sure you have a Mac laptop, with an updated OS (currently 10.11 "El Capitan").
 * [ ] **Required**: Install the latest version of [Xcode](https://developer.apple.com/xcode/).
 * [ ] **Required**: [Download Git](https://git-scm.com/downloads) and [use the following walkthrough to help you configure git on your command line](https://help.github.com/articles/set-up-git/).
-* [ ] **Required**: [Download Slack](https://slack.com/downloads)! Slack is the primary messaging platform we'll use in this course. You'll receive an email invite to join our `GA-Students` group, where you'll be able to share resources and tips with fellow students in our `iosi-precourse` channel.
+* [ ] **Required**: [Download Slack](https://slack.com/downloads)! Slack is the primary messaging platform we'll use in this course. You'll receive an email invite to join our `GA-Students` group.
 * [ ] *Optional*: We highly recommend installing a text editor like [Atom](https://atom.io) or [Sublime Text 3](http://www.sublimetext.com).
-* [ ] *Optional*: If you have a secondary iOS device (e.g. iPhone or iPad), bring it to class so you can use it to test your apps!
+* [ ] *Optional*: If you have a secondary Android device (e.g. Phone or Tablet), bring it to class so you can use it to test your apps!
 
 #### Technology Policy
 
-Due to the necessary tools used for iOS development, **Macs are required** for this course. We strongly suggest that students bring laptops with screens of *at least 13-inches*. Having an 11-inch (or smaller) screen has been shown to adversely affect student performance.
-
-Student laptops should be using OS X 10.10 or higher, ideally 10.11 (El Capitan). *This rules out some older MacBook models.* If you have any questions, feel free to connect with your instructor!
+Read the [policy here](../02-policy/readme.md)
 
 
 <a name="tutorials"></a>
