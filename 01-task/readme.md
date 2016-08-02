@@ -58,21 +58,22 @@ Ok, now onto the good stuff! Below is a list of tutorials and modules we'd like 
 	* *Optional*: [Here is a fun overview of many common Git functions.](https://www.codeschool.com/courses/try-git)
 
 -  [ ] Practice the Fundamentals
-	* **Required**: [Practice these Computer Science basics.](https://www.codecademy.com/courses/programming-intro/0/1)
-	* *Optional*: [If you have time, review some of the materials from Stanford's famous CS101 course. Specifically, look at concepts in weeks 1, 2, 4, and 6!](http://web.stanford.edu/class/cs101/)
+	* **Required**: [Learn Java basics at CodeAcademy](https://www.codecademy.com/learn/learn-java). You need to complete **all 4 units** starting with Introduction, Control Flow, Object Orientation and finally Data Structures.
+	* *Required*: [Stanford's famous CS101 course, look at concepts in weeks 1, 2, 4, and 6! Feel free to explore the rest should you have free time.](http://web.stanford.edu/class/cs101/)
 
--  [ ] Experiment with Xcode
-	* **Required**: [Work through Apple's online lesson on Xcode & Swift Fundamentals.](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson1.html)
-	* *Optional*: [If you want some more help navigating Xcode, check out Apple's friendly Guide.](https://developer.apple.com/library/mac/documentation/ToolsLanguages/Conceptual/Xcode_Overview/index.html)
-	* *Optional*: [It never hurts to practice. Try this sample Xcode project from our favorite "We <3 Swift!"](https://www.weheartswift.com/getting-started-with-ios-programming/)
+-  [ ] Experiment with Android Studio
+	* **Required**: [Meet Android Studio](https://developer.android.com/studio/intro/index.html)
+	* * **Required**: [Familiarize yourself with Android Studio Shortcuts](https://developer.android.com/studio/intro/keyboard-shortcuts.html)
+	* * **Optional**: [Read about SDK updates in Android Studio](https://developer.android.com/studio/intro/update.html)
 
 - [ ] Mobile Networks 101
 	* **Required**: [It's important to understand how the internet works. Complete this module as a refresher.](https://www.khanacademy.org/computing/computer-science/internet-intro)
 	* *Optional*: [This short tutorial is a great overview of the mobile ecosystem.](https://ga-edm-sandbox.s3.amazonaws.com/understanding-mobile-customers-and-their-devices/story.html)
 
-- [ ] Apple & iOS
-	* **Optional**: [Take a quick peek at Apple's Human Interface Design Principles.](https://developer.apple.com/ios/human-interface-guidelines/#//apple_ref/doc/uid/TP40006556)
-	* **Optional**: [Apple's guide explains how iOS technology stacks together.](https://developer.apple.com/library/ios/documentation/Miscellaneous/Conceptual/iPhoneOSTechOverview/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007898)
+- [ ] Android and Design
+	* **Optional**: [Learn about Google's Material Design](https://material.google.com/)
+	* **Optional**: [Explore Google's Guide to Android ](https://developer.android.com/training/index.html)
+	* **Optional**: [Google's Udacity Course on Android basics](https://www.udacity.com/course/developing-android-apps--ud853)
 
 
 <a name="projects"></a>
@@ -91,10 +92,3 @@ Last - but not least, check out some of these awesome additional resources! Whil
 * Try working through [Ray Wenderlich's beginner iOS series. Hint: sign up for free access to access the "iOS Apprentice" tutorials.](https://www.raywenderlich.com/category/ios)
 * [Some students have recommended the following textbook as a helpful resource](https://amzn.com/0134390733).
 
-
-
-
-
-## Licensing
-All content is licensed under a CC­BY­NC­SA 4.0 license.
-All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
