@@ -51,29 +51,29 @@ Ok, now onto the good stuff! Below is a list of tutorials and modules we'd like 
 
 - [ ] Master the Command Line
 	* **Required**: [Complete our basic Command Line Overview.](http://generalassembly.github.io/prework/cl/#/)
-	* *Optional*: [You know what's important? Practice, practice, practice!](https://www.codecademy.com/learn/learn-the-command-line)
+	* **Optional**: [You know what's important? Practice, practice, practice!](https://www.codecademy.com/learn/learn-the-command-line)
 
 - [ ] Control Your Versions
 	* **Required**: [Complete this entire Git Tutorial.](https://www.codecademy.com/learn/learn-git)
-	* *Optional*: [Here is a fun overview of many common Git functions.](https://www.codeschool.com/courses/try-git)
+	* **Optional**: [Here is a fun overview of many common Git functions.](https://www.codeschool.com/courses/try-git)
 
 -  [ ] Practice the Fundamentals
 	* **Required**: [Learn Java basics at CodeAcademy](https://www.codecademy.com/learn/learn-java). You need to complete **all 4 units** starting with Introduction, Control Flow, Object Orientation and finally Data Structures.
-	* *Required*: [Stanford's famous CS101 course, look at concepts in weeks 1, 2, 4, and 6! Feel free to explore the rest should you have free time.](http://web.stanford.edu/class/cs101/)
+	* **Required**: [Stanford's famous CS101 course, look at concepts in weeks 1, 2, 4, and 6! Feel free to explore the rest should you have free time.](http://web.stanford.edu/class/cs101/)
 
 -  [ ] Experiment with Android Studio
 	* **Required**: [Meet Android Studio](https://developer.android.com/studio/intro/index.html)
-	* * **Required**: [Familiarize yourself with Android Studio Shortcuts](https://developer.android.com/studio/intro/keyboard-shortcuts.html)
-	* * **Optional**: [Read about SDK updates in Android Studio](https://developer.android.com/studio/intro/update.html)
+	* **Required**: [Familiarize yourself with Android Studio Shortcuts](https://developer.android.com/studio/intro/keyboard-shortcuts.html)
+	* **Optional**: [Read about SDK updates in Android Studio](https://developer.android.com/studio/intro/update.html)
 
 - [ ] Mobile Networks 101
 	* **Required**: [It's important to understand how the internet works. Complete this module as a refresher.](https://www.khanacademy.org/computing/computer-science/internet-intro)
 	* *Optional*: [This short tutorial is a great overview of the mobile ecosystem.](https://ga-edm-sandbox.s3.amazonaws.com/understanding-mobile-customers-and-their-devices/story.html)
 
 - [ ] Android and Design
-	* **Optional**: [Learn about Google's Material Design](https://material.google.com/)
-	* **Optional**: [Explore Google's Guide to Android ](https://developer.android.com/training/index.html)
-	* **Optional**: [Google's Udacity Course on Android basics](https://www.udacity.com/course/developing-android-apps--ud853)
+	* *Optional*: [Learn about Google's Material Design](https://material.google.com/)
+	* *Optional*: [Explore Google's Guide to Android ](https://developer.android.com/training/index.html)
+	* *Optional*: [Google's Udacity Course on Android basics](https://www.udacity.com/course/developing-android-apps--ud853)
 
 
 <a name="projects"></a>
@@ -86,9 +86,8 @@ Ok, now onto the good stuff! Below is a list of tutorials and modules we'd like 
 
 Last - but not least, check out some of these awesome additional resources! While none of these are really required, we highly recommend that you spend extra time preparing for the course. Remember, this is your learning experience, so make the most of it!
 
-* Listen to ["Developing iOS 9 apps with Swift" from Stanford on iTunes U.](https://itunes.apple.com/gb/course/developing-ios-9-apps-swift/id1104579961)
-* If you want to be an iOS developer, you'll need to [get comfortable with Apple's technical documentation.](https://developer.apple.com/library/ios/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007072)
-* Have a look at [ GA's original iOS textbook! While slightly outdated, there's a lot of great material in here for new programmers.](http://mobbook.generalassemb.ly/index.html)
-* Try working through [Ray Wenderlich's beginner iOS series. Hint: sign up for free access to access the "iOS Apprentice" tutorials.](https://www.raywenderlich.com/category/ios)
-* [Some students have recommended the following textbook as a helpful resource](https://amzn.com/0134390733).
+* Lots of videos form Google [Android Youtube channel](https://www.youtube.com/user/androiddevelopers)
+* If you want to be an Android developer, you'll need to [get comfortable with basics of Android Documentation](https://developer.android.com/guide/index.html)
+* Lots of great guides [Vogella Introduction to Android](http://www.vogella.com/tutorials/android.html)
+* Very thorough guides on all things Android [Codepath Android Guides](https://guides.codepath.com/android)
 
