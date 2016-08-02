@@ -37,12 +37,11 @@ Note: *Students will need to sign up for a paid Developer account ( $25 ) in ord
 
 #### Technology Policy
 
-Read the [Technology Policy](../02-policy/readme.md)
+**Required**: Read the [Technology Policy](../02-policy/readme.md)
 
 #### Install Necessary Software
 
-Please follow the [Installation Instructions](installation/install-instructions.md)
-
+**Required**: Follow [Installation Instructions](installation/install-instructions.md)
 
 <a name="tutorials"></a>
 ## Tutorials
