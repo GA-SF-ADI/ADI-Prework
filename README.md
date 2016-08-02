@@ -11,8 +11,8 @@ We provide a number of **required** and *optional* resources to better prepare y
 Document                            | Description
 ----------------------------------- | ------------------------------------------
 [1. Click here to complete our Onboarding Materials](./01-task/readme.md) | **Required** Pre-Course Tutorials & Project
-[2. Click here to review our Course Tech Policy](./02-policy/tech-policy.md) | GA's Technology Policy for this course
-[3. Click here for additional Course Resources](./03-resources) | Supplemental materials curated for new programmers!
+[2. Click here to review our Course Tech Policy](./02-policy/readme.md) | **Required** GA's Technology Policy for this course
+[3. Click here for additional Course Resources](./03-resources) | **Recommended** Supplemental materials curated for new programmers!
 
 
 // TODO: Should we have pre-work channel? Yes we should.. create one?
