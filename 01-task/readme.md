@@ -6,6 +6,12 @@ We're really excited to have join our General Assembly community! In order to en
 
 Please complete **all** items **before** your first day of class, so that both you and your computer will be prepared to hit the ground running. If you have questions in the meantime (or just want to say hi!), feel free to reach out to your instructional team!
 
+Once you've finished everything on this list, you will be submitting:
+- [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSflhgfmVB2ZhPBurDvAYfr1rS7HJGxr5NlYSqzQWNh5pJCdzw/viewform) to make sure you've learned the material. 
+- [Java project]() for you to complete. 
+
+Failure to submit either of these by first day of class will result in you being dismissed from the course.
+
 Sincerely,
 
 GA + your Android Immersive Team
@@ -35,19 +41,13 @@ Note: *Students will need to sign up for a paid Developer account ( $25 ) in ord
 <a name="install"></a>
 ## Technology
 
-Next, let's review the technology required and do some light installations. For more information, check out our [technology policy](../02-policy/readme.md).
-
-* [ ] **Required**: Make sure you have a Mac laptop, with an updated OS (currently 10.11 "El Capitan").
-* [ ] **Required**: Install the latest version of [Xcode](https://developer.apple.com/xcode/).
-* [ ] **Required**: [Download Git](https://git-scm.com/downloads) and [use the following walkthrough to help you configure git on your command line](https://help.github.com/articles/set-up-git/).
-* [ ] **Required**: [Download Slack](https://slack.com/downloads)! Slack is the primary messaging platform we'll use in this course. You'll receive an email invite to join our `GA-Students` group.
-* [ ] *Optional*: We highly recommend installing a text editor like [Atom](https://atom.io) or [Sublime Text 3](http://www.sublimetext.com).
-* [ ] *Optional*: If you have a secondary Android device (e.g. Phone or Tablet), bring it to class so you can use it to test your apps!
-
 #### Technology Policy
 
-Read the [policy here](../02-policy/readme.md)
+**Required**: Read the [Technology Policy](../02-policy/readme.md)
 
+#### Install Necessary Software
+
+**Required**: Follow [Installation Instructions](installation/install-instructions.md)
 
 <a name="tutorials"></a>
 ## Tutorials
@@ -63,21 +63,23 @@ Ok, now onto the good stuff! Below is a list of tutorials and modules we'd like 
 	* *Optional*: [Here is a fun overview of many common Git functions.](https://www.codeschool.com/courses/try-git)
 
 -  [ ] Practice the Fundamentals
-	* **Required**: [Practice these Computer Science basics.](https://www.codecademy.com/courses/programming-intro/0/1)
-	* *Optional*: [If you have time, review some of the materials from Stanford's famous CS101 course. Specifically, look at concepts in weeks 1, 2, 4, and 6!](http://web.stanford.edu/class/cs101/)
+	* **Required**: [Learn Java basics at CodeAcademy](https://www.codecademy.com/learn/learn-java). You need to complete **all 4 units** starting with Introduction, Control Flow, Object Orientation and finally Data Structures.
+	* **Required**: [Intro to Java Course](https://courses.edx.org/courses/course-v1:HKUSTx+COMP102.1x+2T2016/info) EDX has a great Intro to Java course that teaches you basics of computing and Java. There are video tutorial and exercises. Please go through the whole course, videos are 10 minutes or less. Signing up for the course is free, make sure to press the `Audit Course` button. There is no need to pay for a certificate. 
+	* *Optional*: [Stanford's famous CS101 course, look at concepts in weeks 1, 2, 4, and 6! Feel free to explore the rest should you have free time.](http://web.stanford.edu/class/cs101/)
 
--  [ ] Experiment with Xcode
-	* **Required**: [Work through Apple's online lesson on Xcode & Swift Fundamentals.](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson1.html)
-	* *Optional*: [If you want some more help navigating Xcode, check out Apple's friendly Guide.](https://developer.apple.com/library/mac/documentation/ToolsLanguages/Conceptual/Xcode_Overview/index.html)
-	* *Optional*: [It never hurts to practice. Try this sample Xcode project from our favorite "We <3 Swift!"](https://www.weheartswift.com/getting-started-with-ios-programming/)
+-  [ ] Experiment with Android Studio
+	* **Required**: [Familiarize yourself with Android StudioShortcuts](https://developer.android.com/studio/intro/keyboard-shortcuts.html)
+	* *Optional*: [Meet Android Studio](https://developer.android.com/studio/intro/index.html)
+	* *Optional*: [Read about SDK updates in Android Studio](https://developer.android.com/studio/intro/update.html)
 
 - [ ] Mobile Networks 101
 	* **Required**: [It's important to understand how the internet works. Complete this module as a refresher.](https://www.khanacademy.org/computing/computer-science/internet-intro)
 	* *Optional*: [This short tutorial is a great overview of the mobile ecosystem.](https://ga-edm-sandbox.s3.amazonaws.com/understanding-mobile-customers-and-their-devices/story.html)
 
-- [ ] Apple & iOS
-	* **Optional**: [Take a quick peek at Apple's Human Interface Design Principles.](https://developer.apple.com/ios/human-interface-guidelines/#//apple_ref/doc/uid/TP40006556)
-	* **Optional**: [Apple's guide explains how iOS technology stacks together.](https://developer.apple.com/library/ios/documentation/Miscellaneous/Conceptual/iPhoneOSTechOverview/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007898)
+- [ ] Android and Design
+	* *Optional*: [Learn about Google's Material Design](https://material.google.com/)
+	* *Optional*: [Explore Google's Guide to Android ](https://developer.android.com/training/index.html)
+	* *Optional*: [Google's Udacity Course on Android basics](https://www.udacity.com/course/developing-android-apps--ud853)
 
 
 <a name="projects"></a>
@@ -90,16 +92,12 @@ Ok, now onto the good stuff! Below is a list of tutorials and modules we'd like 
 
 Last - but not least, check out some of these awesome additional resources! While none of these are really required, we highly recommend that you spend extra time preparing for the course. Remember, this is your learning experience, so make the most of it!
 
-* Listen to ["Developing iOS 9 apps with Swift" from Stanford on iTunes U.](https://itunes.apple.com/gb/course/developing-ios-9-apps-swift/id1104579961)
-* If you want to be an iOS developer, you'll need to [get comfortable with Apple's technical documentation.](https://developer.apple.com/library/ios/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007072)
-* Have a look at [ GA's original iOS textbook! While slightly outdated, there's a lot of great material in here for new programmers.](http://mobbook.generalassemb.ly/index.html)
-* Try working through [Ray Wenderlich's beginner iOS series. Hint: sign up for free access to access the "iOS Apprentice" tutorials.](https://www.raywenderlich.com/category/ios)
-* [Some students have recommended the following textbook as a helpful resource](https://amzn.com/0134390733).
-
-
-
-
-
-## Licensing
-All content is licensed under a CC­BY­NC­SA 4.0 license.
-All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
+#### Useful things to Bookmark!
+* [Android Youtube channel](https://www.youtube.com/user/androiddevelopers)
+* [Android Documentation](https://developer.android.com/guide/index.html)
+* [Vogella Introduction to Android](http://www.vogella.com/tutorials/android.html)
+* [Codepath Android Guides](https://guides.codepath.com/android)
+* [Popular libraries used in modern Android Projects](https://guides.codepath.com/android/Must-Have-Libraries)
+* [Material Design Color Palette Generator](http://www.materialpalette.com/)
+* [Wireframing tool for quick UI prototypes](https://wireframe.cc/)
+* [Tool to find Android Libraries](https://android-arsenal.com/)
