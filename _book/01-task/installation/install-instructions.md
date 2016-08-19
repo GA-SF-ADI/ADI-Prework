@@ -1,4 +1,4 @@
-## Android Development Immersive Installation Instructions
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Android Development Immersive Installation Instructions
 
 Hello future Android Developers!
 We here at General Assembly are super excited to start working with you! 
@@ -9,7 +9,7 @@ Just as a matter of housekeeping, there are a few things we’d like you to inst
 First, you need to install Java Development Kit if you haven’t done so already. Go to [this link](http://www.oracle.com/technetwork/java/javase/downloads/index.html) and click on Downloads (see the picture below). 
 
 Include image
-![]()
+![](assets/java_download.png)
 
 There, select your operating system (if you’re on a Mac, it would be Mac OS X x64), and make sure to accept the terms & agreements. Then just open the `.dmg` file and follow the installation steps. 
 
@@ -34,8 +34,7 @@ In addition to Android Studio, we’re going to be using an emulating software c
 
 If you try and open Genymotion now, it will give you an error message and stop working. This is because Genymotion requires ANOTHER piece of software, VirtualBox, so now head over to their [website](https://www.virtualbox.org/wiki/Downloads) and click the and64 link to the right of your operating system (see the image below circling what to click). 
 
-Include image
-![]()
+![](assets/virtual_box.png)
 
 Now open the `.dmg` file and run the `.pkg`. Follow the installation instructions, and then open the application. Now try and open your Genymotion! It should work.
 
@@ -47,7 +46,7 @@ There is one last thing to do: Link your Genymotion with your Android Studio. Op
 Once your Android Studio has restarted, you should see a new button on the top of your toolbar, as seen in the picture below:
 
 Include Image
-![]()
+![](assets/genymotion_studio.png)
 
 Click it. It might open a prompt for you to enter the path to your Genymotion app, which you should be able to find in your Applications folder if you dragged it in there before when installing it. Select the Genymotion App, and hit the blue button to confirm. Your Genymotion should now be connected and you can start making and running virtual machines in it through your Android Developer Studio!
 
@@ -56,4 +55,4 @@ Click it. It might open a prompt for you to enter the path to your Genymotion ap
 The last thing you need to do is install Xcode for some  command line tools. You can find it in the app store and download it. It is a lengthy download, but a one-time thing. Make sure you go through the whole setup. Make sure you open it once!
 
 Include image
-![]()
+![](assets/xcode.png)

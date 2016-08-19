@@ -1,91 +1,113 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Welcome to Android Development Immersive!
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Study Guide
 
-[Welcome to the Android Development Immersive at General Assembly!](https://github.com/GA-SF-ADI/Pre-class-work)
+This study guide covers the following topics:
 
-We're really excited to have join our General Assembly community! In order to ensure your success in the course, we’ve created the following pre-course onboarding materials. Depending on your level of prior knowledge, these tutorials, modules, and projects may take you between 40-60 hours to complete.
+**Required:**
+- [Java Basics](#java)
+- [Command Line Basics](#commandline)
+- [Version Control Basics](#versioncontrol)
 
-Please complete **all** items **before** your first day of class, so that both you and your computer will be prepared to hit the ground running. If you have questions in the meantime (or just want to say hi!), feel free to reach out to your instructional team!
+**Optional:**
+- [Computer Science 101](#cs)
+- [Mobile Networks](#mobilenetworks)
+- [Android Studio](#studio)
+- [Visual Design in Android](#design)
 
-Once you've finished everything on this list, you will be submitting:
-- [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSflhgfmVB2ZhPBurDvAYfr1rS7HJGxr5NlYSqzQWNh5pJCdzw/viewform) to make sure you've learned the material. 
-- [Java project]() for you to complete. 
+You will submit a [Quiz](quiz/readme.md) on all of the required topics before the first day of class.
 
-Failure to submit either of these by first day of class will result in you being dismissed from the course.
+***
 
-Sincerely,
+## Required Material
 
-GA + your Android Immersive Team
+<h3 id="java"></h3>
+#### Java Basics
 
----
+Its important to get a head start on understanding *Java Fundementals*. These will serve as your foundation to becoming an Android Developer. 
 
-# Pre-Course Checklist
-1. [Accounts](#account)
-2. [Install](#install)
-3. [Tutorials](#tutorials)
-4. [Projects](#projects)
-5. [Resources](#resources)
+[Java](https://en.wikipedia.org/wiki/Java_(programming_language) is a programming language developed by Sun MicroSystems and now owned by Oracle Corporation. Without Java there is no Android Development. Android applications are built using the Java programming language.
 
+###### Please complete the following material covering this topic:
+* [Java basics at CodeAcademy](https://www.codecademy.com/learn/learn-java) 
+* [Intro to Java Course](https://courses.edx.org/courses/course-v1:HKUSTx+COMP102.1x+2T2016/info) 
 
-<a name="account"></a>
-## Accounts
+Code Academy: You need to complete **all 4 units** starting with Introduction, Control Flow, Object Orientation and finally Data Structures.
 
-First, you'll need to set up a few accounts, if you haven't already.
+EDX Intro to Java: Great Intro to Java course that covers basics of computing as well as Java. Lessons have video tutorials, exercises and interactive labs. Please go through as much of the course as possible. The videos are average a length of 10 minutes. Signing up for the course is *free*, make sure to press the *Audit Course* button. There is no need to pay for a certificate. 
 
-* [ ] **Required**: [Create a Github account](https://github.com/join), if you don't already have one.
-* [ ] **Required**: [Create a Trello account](https://trello.com/signup), if you don't already have one.
-* * [ ] **Required**: [Create a Slack account](https://slack.com/signup), if you don't already have one.
+***
 
+<h3 id="commandline"</h3>
+#### Command Line
 
-Note: *Students will need to sign up for a paid Developer account ( $25 ) in order to submit apps to the Google Play Store. We'll discuss this further in-class!*
+We will be using command line for navigating our files and projects, version control, etc. 
 
-<a name="install"></a>
-## Technology
+###### Please complete the following material covering this topic:
+* [Complete our basic Command Line Overview.](http://generalassembly.github.io/prework/cl/#/)
+* [You know what's important? Practice, practice, practice!](https://www.codecademy.com/learn/learn-the-command-line)
 
-#### Technology Policy
+*** 
 
-**Required**: Read the [Technology Policy](../02-policy/readme.md)
+<h3 id="versioncontrol"</h3>
+#### Version Control
 
-#### Install Necessary Software
+We will be using [git](https://git-scm.com/about) version control heavily in this class, from homework and lab submissions, to projects and group collaborations. 
+	
+###### Please complete the following material covering this topic:
+* [Git Tutorial](https://www.codecademy.com/learn/learn-git)
+* [Overview of Common Git Functions](https://www.codeschool.com/courses/try-git)
 
-**Required**: Follow [Installation Instructions](installation/install-instructions.md)
+***
 
-<a name="tutorials"></a>
-## Tutorials
+## Optional Material
 
-Ok, now onto the good stuff! Below is a list of tutorials and modules we'd like you to complete before starting the course. Remember to work through *all of the required material* at a minimum, although we highly recommend completing the optional materials as well, if you have the time!
-
-- [ ] Master the Command Line
-	* **Required**: [Complete our basic Command Line Overview.](http://generalassembly.github.io/prework/cl/#/)
-	* *Optional*: [You know what's important? Practice, practice, practice!](https://www.codecademy.com/learn/learn-the-command-line)
-
-- [ ] Control Your Versions
-	* **Required**: [Complete this entire Git Tutorial.](https://www.codecademy.com/learn/learn-git)
-	* *Optional*: [Here is a fun overview of many common Git functions.](https://www.codeschool.com/courses/try-git)
-
--  [ ] Practice the Fundamentals
-	* **Required**: [Learn Java basics at CodeAcademy](https://www.codecademy.com/learn/learn-java). You need to complete **all 4 units** starting with Introduction, Control Flow, Object Orientation and finally Data Structures.
-	* **Required**: [Intro to Java Course](https://courses.edx.org/courses/course-v1:HKUSTx+COMP102.1x+2T2016/info) EDX has a great Intro to Java course that teaches you basics of computing and Java. There are video tutorial and exercises. Please go through the whole course, videos are 10 minutes or less. Signing up for the course is free, make sure to press the `Audit Course` button. There is no need to pay for a certificate. 
-	* *Optional*: [Stanford's famous CS101 course, look at concepts in weeks 1, 2, 4, and 6! Feel free to explore the rest should you have free time.](http://web.stanford.edu/class/cs101/)
-
--  [ ] Experiment with Android Studio
-	* **Required**: [Familiarize yourself with Android StudioShortcuts](https://developer.android.com/studio/intro/keyboard-shortcuts.html)
-	* *Optional*: [Meet Android Studio](https://developer.android.com/studio/intro/index.html)
-	* *Optional*: [Read about SDK updates in Android Studio](https://developer.android.com/studio/intro/update.html)
-
-- [ ] Mobile Networks 101
-	* **Required**: [It's important to understand how the internet works. Complete this module as a refresher.](https://www.khanacademy.org/computing/computer-science/internet-intro)
-	* *Optional*: [This short tutorial is a great overview of the mobile ecosystem.](https://ga-edm-sandbox.s3.amazonaws.com/understanding-mobile-customers-and-their-devices/story.html)
-
-- [ ] Android and Design
-	* *Optional*: [Learn about Google's Material Design](https://material.google.com/)
-	* *Optional*: [Explore Google's Guide to Android ](https://developer.android.com/training/index.html)
-	* *Optional*: [Google's Udacity Course on Android basics](https://www.udacity.com/course/developing-android-apps--ud853)
+The material in this section is optional. However, we *highly recommend* learning about these topics as are they are relevant to Android and your success.
 
 
-<a name="projects"></a>
-## Projects
+<h3 id="cs"></h3>
+#### Computer Science Basics
 
-[ ] [Next, click here for instructions on how to complete our **required** pre-course project!](./pre-course-project.md).
+You can take Standford's famous CS101 course to learn about Fundemental Concepts in Computer Science. In particular, look at concepts in **weeks 1, 2, 4 and 6**!
+
+###### Material covering this topic:
+* [Stanford: CS101](http://web.stanford.edu/class/cs101/)
+
+***
+
+<h3 id="mobilenetworks"></h3>
+#### Mobile Networks 101
+
+Learn about the internet, how it works, and how it affects the mobile ecosystem.
+
+###### Material covering this topic:
+* [Internet Intro](https://www.khanacademy.org/computing/computer-science/internet-intro)
+* [Mobile Ecosystem](https://ga-edm-sandbox.s3.amazonaws.com/understanding-mobile-customers-and-their-devices/story.html)
+
+*** 
+
+<h3 id="studio"></h3>
+#### Experiment with Android Studio
+
+Android Studio is going to become your best friend during this course. It is the go to tool for developing Android Applications. Google highly customized the IntelliJ IDE and rebranded it as Android Studio.
+
+Some of the most important things you could learn are the shortcuts Android Studio has. They will make you a more efficient developer!
+
+###### Material covering this topic:
+* [Meet Android Studio](https://developer.android.com/studio/intro/index.html)
+* [Familiarize yourself with Android StudioShortcuts](https://developer.android.com/studio/intro/keyboard-shortcuts.html)
+* [Read about SDK updates in Android Studio](https://developer.android.com/studio/intro/update.html)
+
+***
+
+<h3 id="design"></h3>
+#### Visual Design in Android
+
+This material covers all things related to designing beautiful mobile applications!
+
+###### Material covering this topic:
+* [Google's Material Design](https://material.google.com/)
+* [Google's Guide to Android ](https://developer.android.com/training/index.html)
+* [Google's Udacity Course on Android basics](https://www.udacity.com/course/developing-android-apps--ud853)
+
 
 <a name="resources"></a>
 ## Optional Resources

@@ -8,11 +8,11 @@ Welcome to General Assembly's Android Development Immersive. We are building a g
 This material was designed to ensure *your success* in this Android Development Immersive course.
 
 **You are required to submit the following materials before the first day of class:**
-* [Quiz]()
-* [Project]()
+* [Quiz](01-task/quiz/readme.md)
+* [Project](01-task/project/readme.md)
 * [Technology Policy](02-policy/readme.md)
-* [Accounts Signup Guide]()
-* [Software Installation Guide]()
+* [Accounts Signup Guide](01-task/accounts/readme.md)
+* [Software Installation Guide](01-task/installation/readme.md)
 
 
 These resources ensure everyone will start from the same *minimum required baseline knowledge of Java* on day one. 
