@@ -9,3 +9,5 @@
 * [Submissions]()
 	* [Quiz](01-task/quiz/readme.md)
 	* [Project](01-task/project/readme.md)
+
+* [Licence](LICENCE.TXT)
