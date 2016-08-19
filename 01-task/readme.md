@@ -3,17 +3,17 @@
 This study guide covers the following topics:
 
 **Required:**
-- [Java Basics](#java)
-- [Command Line Basics](#commandline)
-- [Version Control Basics](#versioncontrol)
+- [**Java Basics**](#java)
+- [**Command Line Basics**](#commandline)
+- [**Version Control Basics**](#versioncontrol)
 
 **Optional:**
-- [Computer Science 101](#cs)
-- [Mobile Networks](#mobilenetworks)
-- [Android Studio](#studio)
-- [Visual Design in Android](#design)
+- [**Computer Science 101**](#cs)
+- [**Mobile Networks**](#mobilenetworks)
+- [**Android Studio**](#studio)
+- [**Visual Design in Android**](#design)
 
-You will submit a [Quiz](quiz/readme.md) on all of the required topics before the first day of class.
+You will submit a [**Quiz**](quiz/readme.md) on all of the required topics before the first day of class.
 
 ***
 
@@ -108,6 +108,16 @@ This material covers all things related to designing beautiful mobile applicatio
 * [Google's Guide to Android ](https://developer.android.com/training/index.html)
 * [Google's Udacity Course on Android basics](https://www.udacity.com/course/developing-android-apps--ud853)
 
+***
+
+#### Additional Java Resources
+
+Java is core to Android Application Development.
+
+###### Material covering this topic:
+* [Intro to Java YouTube Channel](https://www.youtube.com/playlist?list=PLDAA5DE54FB5215EC)
+* [Object Oriented Programming in Java YouTube Channel](https://www.youtube.com/playlist?list=PL07BAEC9E3E9E49F3)
+* [Syntax Practice]()
 
 <a name="resources"></a>
 ## Optional Resources
